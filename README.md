@@ -131,7 +131,7 @@ Revenue concentration suggests replicable high-performing store models.
 ---
 
 ## Repository Structure
-
+```
 Blinkit-Retail-Analytics/
 │
 ├── dashboards/
@@ -143,7 +143,7 @@ Blinkit-Retail-Analytics/
 │   └── blinkit_data_preprocessing.py
 │
 └── README.md
-
+```
 ---
 
 ## Dashboard Snapshots
