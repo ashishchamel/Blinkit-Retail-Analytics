@@ -181,3 +181,13 @@ Dashboards are shared as static snapshots.
 
 Ashish Chamel  
 Business Intelligence & Data Analytics
+
+ Tableau Public:  
+https://public.tableau.com/app/profile/ashish.chamel  
+
+ LinkedIn:  
+https://www.linkedin.com/in/ashish-chamel  
+
+
+© Ashish Chamel | Data Analytics Portfolio
+
